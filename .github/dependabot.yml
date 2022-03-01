@@ -21,4 +21,4 @@ updates:
       interval: weekly
       day: tuesday
       time: "12:00"
-      timezone: Europe/Athens
+      timezone: Central/Chicago
